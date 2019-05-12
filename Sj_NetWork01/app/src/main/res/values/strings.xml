@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sj_NetWork01</string>
+    <string name="parse">解析数据</string>
+    <string name="get">获取数据</string>
+    <string name="res">结果</string>
+</resources>
